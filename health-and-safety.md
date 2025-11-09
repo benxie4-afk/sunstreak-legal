@@ -56,4 +56,3 @@ When we do, we will update the “Effective Date” above and make the revised v
 9. Contact Us
 If you have questions about these Health & Safety guidelines or wish to report a concern:
 Email: sunstreakapp@gmail.com
-Mailing Address: 1215 Cherokee Road, Louisville, KY 40204
