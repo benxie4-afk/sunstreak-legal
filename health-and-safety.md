@@ -2,7 +2,7 @@
 
 ---
 
-# SunStreak – Health & Safety
+# Health & Safety
 
 Effective Date: October 5, 2025
 
