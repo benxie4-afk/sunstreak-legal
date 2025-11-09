@@ -1,6 +1,6 @@
 [Home](README.md) | [Health & Safety](health-and-safety.md) | [Privacy Policy](privacy-policy.md) | [Terms of Use](terms-of-use.md)
 
-Health & Safety
+# Health & Safety
 
 Effective Date: October 5, 2025
 
