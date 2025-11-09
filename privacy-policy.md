@@ -12,7 +12,7 @@ We strive to collect only what we need to run the App.
 
 ### a. Information You Provide
 
-•	Account details: Email address or display name (if you choose to create an account).
+•	Account details: Email address and your password.
 
 •	Support requests: Any information you include in emails you send us.
 
@@ -28,7 +28,7 @@ We strive to collect only what we need to run the App.
 
 •	We do not collect credit-card data, government IDs, or protected medical records (PHI).
 
-•	SunStreak is a wellness-tracking tool and does not diagnose or treat conditions.
+•	Sunstreak is a wellness-tracking tool and does not diagnose or treat conditions.
  
 ## 2. How We Use Your Information
 
@@ -74,8 +74,6 @@ Those services may receive standard device and request information when you fetc
 
 •	Access / deletion: You can request a copy or deletion of your personal data by emailing sunstreakapp@gmail.com
 
-•	Opt-out of analytics: In-app settings (if available) let you limit certain analytics collection.
-
 •	Location: You can disable location permissions in your device settings at any time.
 
 •	Marketing: We do not currently send marketing emails; if we ever do, you'll be able to opt out.
@@ -98,7 +96,7 @@ However, no system is 100% secure, and we cannot guarantee absolute security.
  
 ## 9. International Users
 
-Our servers are currently located in [United States / hosting region].
+Our servers are currently located in United States.
 
 By using the App, you consent to the transfer of your data to that location, which may have different data-protection laws than your home country.
  
