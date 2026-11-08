@@ -35,6 +35,7 @@ Always follow sunscreen manufacturers' instructions and consult a qualified heal
 You understand and agree that:
 
 - UV-index readings and forecasts come from third parties and may be inaccurate, delayed, incomplete, or unavailable. Actual UV exposure depends on conditions the App cannot measure, such as altitude, shade, and reflection from water, snow, or sand.
+- You choose how long the reapply timer runs. It is a habit-building reminder, not a measure of how long your sunscreen protects you, and the App does not know when you need to reapply. Decide when to reapply based on the sunscreen label, your activities, and your own judgment, not on the timer.
 - Reapplication timers, reminders, and notifications may be delayed or may not be delivered at all, for example because of device settings, battery-saving features, operating-system behavior, or the App being closed or uninstalled.
 - Streaks, scores, badges, and trophies measure habits you log in the App. They do not mean that your skin is adequately protected.
 - You are solely responsible for your own sun exposure and sun-protection decisions. You use the App, and rely on any information it provides, at your own risk.
