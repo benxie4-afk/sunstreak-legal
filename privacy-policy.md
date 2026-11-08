@@ -4,7 +4,9 @@
 
 # Privacy Policy
 
-Effective Date: October 5, 2025
+Effective Date: November 8, 2026
+
+This Privacy Policy explains how the Sunstreak mobile application ("App") handles your information. "Sunstreak," "we," "our," and "us" mean the developer of the App. The App is free and is intended for use in the United States.
 
 ## 1. Information We Collect
 
@@ -12,102 +14,80 @@ We strive to collect only what we need to run the App.
 
 ### a. Information You Provide
 
-•	Account details: Email address and your password.
+- Account details: your email address and password. Your password is handled by our authentication provider, Google Firebase Authentication; we never see or store it.
+- Support requests: any information you include in emails you send us.
 
-•	Support requests: Any information you include in emails you send us.
+### b. Information Processed When You Use the App
 
-### b. Information Collected Automatically
+- Location: when the App fetches the UV index, it sends your device's current coordinates to our server, which uses them to request weather and UV data from Apple WeatherKit and returns the result to you. We do not save your location to any database or use it to track you. Like most web services, our hosting provider keeps short-lived operational request logs, which may briefly include these coordinates and are deleted automatically.
+- Technical information: our servers and service providers receive standard request information, such as your IP address and a sign-in token, to authenticate you, protect against abuse, and deliver the service.
+- Crash reports: if you have chosen in your iOS settings to share analytics with app developers, Apple may provide us with crash reports and aggregated usage statistics. You can change this in your device's Privacy settings.
 
-•	Device information: device model, operating system, app version, language, crash logs.
+### c. Information That Stays on Your Device
 
-•	App-usage data: streak counts, days you logged sunscreen use, UV-index trends.
+Your sunscreen logs, streaks, scores, daily summaries, timers, and reminder settings are stored only on your device. They are not sent to our servers. If you use the App's export feature, the export file is created on your device and goes only where you choose to save or send it.
 
-•	Location data: Not collected for tracking. The App only requests your location at the moment you ask to see local UV index and does not store it on our servers.
+### d. No Sensitive Health or Payment Data
 
-### c. No Sensitive Health or Payment Data
+- We do not collect payment information, government IDs, or medical records.
+- We do not collect your sun-protection or sunscreen-use history on our servers (see section 1c).
+- Sunstreak is a wellness-tracking tool and does not diagnose or treat conditions.
 
-•	We do not collect credit-card data, government IDs, or protected medical records (PHI).
-
-•	Sunstreak is a wellness-tracking tool and does not diagnose or treat conditions.
- 
 ## 2. How We Use Your Information
 
 We use your information to:
 
-•	Provide core App features (e.g., calculating your sunscreen streak, showing UV index).
+- Provide core App features, such as signing you in and showing the UV index for your location.
+- Keep the App secure, prevent abuse, and fix problems.
+- Respond to your support questions.
+- Comply with legal obligations.
 
-•	Improve functionality, debug crashes, and measure engagement.
-
-•	Respond to your support questions.
-
-•	Comply with legal obligations.
- 
 ## 3. How We Share Your Information
 
-We do not sell your personal data.
+We do not sell or rent your personal information, and we do not share it for targeted advertising.
 
-We may share limited data:
+We share limited information only with:
 
-•	Service providers: (e.g., cloud hosting, analytics, email delivery) solely to operate the App.
+- Service providers that operate the App on our behalf:
+  - Google Firebase Authentication (account sign-in and email verification)
+  - Vercel (hosting for our server)
+  - Apple WeatherKit (weather and UV data, which receives your coordinates for each request)
+- Legal compliance: if required by law, regulation, or valid legal process, or to protect the rights and safety of our users or others.
+- Business transfer: if the App is transferred to a new owner, your information may transfer as part of it, and this Policy will continue to apply to it.
 
-•	Legal compliance: if required by law, regulation, or valid legal request.
+## 4. Third-Party Links
 
-•	Business transfer: if we undergo a merger or acquisition, users will be notified.
- 
-## 4. Third-Party Services
+The App may link to third-party websites or services. Their own privacy policies govern their practices.
 
-•	UV-index data is provided by Apple WeatherKit (or other weather APIs).
-
-Those services may receive standard device and request information when you fetch UV index.
-
-•	Our App may link to third-party websites or services; their privacy policies govern their practices.
- 
 ## 5. Data Retention
 
-•	Account and usage data are retained as long as your account is active or as needed to provide services.
+- Account information is kept until you delete your account.
+- Location coordinates are not stored, apart from the short-lived operational logs described in section 1b.
+- Data stored on your device remains there until you delete your account (which also clears it from the device) or uninstall the App.
 
-•	You may request deletion at any time (see Your Choices below).
+## 6. Your Choices
 
-•	Crash and analytics data are retained in aggregated or anonymized form.
- 
-## 6. Your Choices & Rights
+- Delete your account: you can delete your account at any time from the App's settings. This deletes your account and clears your Sunstreak data from the device. You can also email us to request deletion or a copy of the information we hold about you.
+- Location: you can turn off location access in your device settings at any time. The App will not be able to show local UV data without it.
+- Notifications: you can turn off reminders in the App or in your device settings.
+- Marketing: we do not send marketing emails.
 
-•	Access / deletion: You can request a copy or deletion of your personal data by emailing sunstreakapp@gmail.com
+## 7. Do Not Track
 
-•	Location: You can disable location permissions in your device settings at any time.
+The App does not track you across other companies' apps or websites. Because we do not engage in that kind of tracking, we do not respond differently to browser or device "Do Not Track" signals.
 
-•	Marketing: We do not currently send marketing emails; if we ever do, you'll be able to opt out.
+## 8. Children's Privacy
 
-Residents of certain regions (e.g., EU/EEA, UK, California) may have additional statutory privacy rights. We will honor those as required by law.
- 
-## 7. Children's Privacy
+Sunstreak is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided us with personal information, please contact us and we will delete it.
 
-Sunstreak is not directed to children under 13 (or the minimum age in your jurisdiction).
+## 9. Security
 
-We do not knowingly collect personal data from children.
+We use reasonable technical safeguards, such as encrypted (HTTPS) connections and limited access controls, to protect your information. However, no system is 100% secure, and we cannot guarantee absolute security.
 
-If you believe a child provided data without parental consent, please contact us so we can delete it.
- 
-## 8. Security
-
-We use industry-standard technical and organizational safeguards (such as HTTPS, limited access controls) to protect your information.
-
-However, no system is 100% secure, and we cannot guarantee absolute security.
- 
-## 9. International Users
-
-Our servers are currently located in United States.
-
-By using the App, you consent to the transfer of your data to that location, which may have different data-protection laws than your home country.
- 
 ## 10. Changes to This Privacy Policy
 
-We may update this Policy occasionally.
+We may update this Policy occasionally. When we do, we will revise the "Effective Date" above and post the new version within the App and at our public link. If we make significant changes, we will notify you by reasonable means, such as a notice in the App.
 
-When we do, we'll revise the "Effective Date" above and post the new version within the App and at our public link.
-
-Significant changes will be highlighted or communicated by reasonable means.
- 
 ## 11. Contact Us
 
 If you have questions or requests regarding this Privacy Policy, please reach us at:
