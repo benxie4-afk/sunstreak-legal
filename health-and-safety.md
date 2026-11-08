@@ -70,6 +70,8 @@ Certain groups may be at higher risk of sun damage and should consult their heal
 
 •	A high score, an active streak, or a completed reapply timer does not mean your skin is adequately protected. Scores measure the habits you log, not your actual sun exposure.
 
+•	The reapply timer runs for whatever length you set. It is a reminder to help you build a habit, not a measure of how long your sunscreen lasts. When you are outdoors, reapply at least every 2 hours, and right after swimming or sweating, even if your timer is still running.
+
 •	Reapply reminders and notifications may be delayed or may not arrive (for example, if notifications are turned off, the device is in a low-power or focus mode, or the App is closed). Keep track of when you need to reapply sunscreen yourself.
 
 •	Always follow the product instructions on sunscreen labels and your health-care provider's recommendations.
