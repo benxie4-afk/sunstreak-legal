@@ -1,14 +1,14 @@
-[Home](README.md) | [Health & Safety](health-and-safety.md) | [Privacy Policy](privacy-policy.md) | [Terms of Use](terms-of-use.md)
+[Home](README.md) | [Health & Safety](health-and-safety.md) | [Privacy Policy](privacy-policy.md) | [Terms of Use](terms-of-use.md) | [Support](support.md)
 
 ---
 
-# SunStreak – Terms of Use
+# Sunstreak: Sunscreen Tracker – Terms of Use
 
 Effective Date: November 8, 2026
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the Sunstreak mobile application ("App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree, do not use the App.
+By downloading, installing, or using the Sunstreak: Sunscreen Tracker mobile application ("App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree, do not use the App.
 
 In these Terms, "Sunstreak," "we," "our," and "us" mean the developer of the App and its owners, operators, and contributors.
 

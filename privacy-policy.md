@@ -1,12 +1,12 @@
-[Home](README.md) | [Health & Safety](health-and-safety.md) | [Privacy Policy](privacy-policy.md) | [Terms of Use](terms-of-use.md)
+[Home](README.md) | [Health & Safety](health-and-safety.md) | [Privacy Policy](privacy-policy.md) | [Terms of Use](terms-of-use.md) | [Support](support.md)
 
 ---
 
-# Privacy Policy
+# Sunstreak: Sunscreen Tracker – Privacy Policy
 
 Effective Date: November 8, 2026
 
-This Privacy Policy explains how the Sunstreak mobile application ("App") handles your information. "Sunstreak," "we," "our," and "us" mean the developer of the App. The App is free and is intended for use in the United States.
+This Privacy Policy explains how the Sunstreak: Sunscreen Tracker mobile application ("App") handles your information. "Sunstreak," "we," "our," and "us" mean the developer of the App. The App is free and is intended for use in the United States.
 
 ## 1. Information We Collect
 
